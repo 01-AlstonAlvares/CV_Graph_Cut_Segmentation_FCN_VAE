@@ -1,10 +1,10 @@
 # 🧠 Computer Vision Assignment: GrabCut, FCN, and VAE (Analysis) by st126488
 
-This repository contains the **project assignment**, **setup instructions**, and **full analysis** for all three tasks.
+This repository contains the **assignment 3**, **setup instructions**, and **full analysis** for all three tasks.
 
 ---
 
-## 📘 README: Project Overview & Setup
+## 📘 README: Assignment Overview & Setup
 
 ### 📋 Table of Contents
 
